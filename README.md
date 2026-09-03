@@ -116,22 +116,6 @@ capacity block definitions, GroupKFold validation by Sub-ICB and by ICB,
 temporal holdout on 2024, and lagged-feature forecasting against SARIMA,
 exponential smoothing, persistence and seasonal-naive baselines.
 
-## Data sources
-
-All data are publicly available under open licences (Open Government Licence
-v3.0 for NHS and ONS data). Full source details and column definitions are in
-Appendix A of the dissertation.
-
-| Source | URL |
-|---|---|
-| HES Monthly Activity Report | https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data |
-| Appointments in General Practice | https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice |
-| AmbSYS Time Series | https://www.england.nhs.uk/statistics/statistical-work-areas/ambulance-quality-indicators/ |
-| NHS 111 Minimum Dataset | https://www.england.nhs.uk/statistics/statistical-work-areas/nhs-111-minimum-data-set/ |
-| OHID Fingertips | https://fingertips.phe.org.uk/ |
-| ONS Health Index | https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/healthindexforengland/2015to2021 |
-| ONS Sub-ICB Mid-Year Population Estimates | https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates |
-
 ## Reproducibility notes
 
 - All random seeds are fixed (`random_state=0` throughout). Repeated runs
