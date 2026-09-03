@@ -6,7 +6,7 @@ Replication and post-2022 extension of the Multi-Granular Stacked Regression (MG
 model proposed by James, Wood and Denholm (2023).
 
 Author: Cathy Mariam Vijay
-MSc Data Science dissertation, University of Bristol, 2025.
+MSc Data Science dissertation, University of Bristol, 2026.
 
 ## Overview
 
